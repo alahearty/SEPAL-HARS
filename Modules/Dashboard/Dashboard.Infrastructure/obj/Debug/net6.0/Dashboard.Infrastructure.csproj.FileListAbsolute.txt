@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\bin\Debug\net6.0\Dashboard.Infrastructure.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\bin\Debug\net6.0\Dashboard.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\bin\Debug\net6.0\Dashboard.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\refint\Dashboard.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\Dashboard.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Infrastructure\obj\Debug\net6.0\ref\Dashboard.Infrastructure.dll

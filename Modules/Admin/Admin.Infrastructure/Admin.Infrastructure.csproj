@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\HARS.Shared.Infrastructure\HARS.Shared.Infrastructure.csproj" />
+    <ProjectReference Include="..\Admin.Application\Admin.Application.csproj" />
+    <ProjectReference Include="..\Admin.Dapper\Admin.Dapper.csproj" />
+    <ProjectReference Include="..\Admin.Domain\Admin.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

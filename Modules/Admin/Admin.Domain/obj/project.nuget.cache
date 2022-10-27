@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FoWQEmHUuqwpKrH64hEfDvH+HRDQnyC2AMieM5eqmPRJ4PiwjMdU3qgKEGSdLMmJW1LCgLHKEqCadlH9kN2mMQ==",
+  "dgSpecHash": "2ppOGN9Rz1sz4SetZfzFX/rEEg84dpeKXMlMkFQexck8pB/ELXNv8QSTd3SJdP6fc6DHh/ZQ8GZfHArbe1qCNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alapher.woriayibapri\\Desktop\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\endurance.peter\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\endurance.peter\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

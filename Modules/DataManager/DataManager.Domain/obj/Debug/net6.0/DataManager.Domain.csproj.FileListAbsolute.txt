@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\bin\Debug\net6.0\DataManager.Domain.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\bin\Debug\net6.0\DataManager.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\bin\Debug\net6.0\DataManager.Domain.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\refint\DataManager.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\DataManager.Domain.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\DataManager\DataManager.Domain\obj\Debug\net6.0\ref\DataManager.Domain.dll

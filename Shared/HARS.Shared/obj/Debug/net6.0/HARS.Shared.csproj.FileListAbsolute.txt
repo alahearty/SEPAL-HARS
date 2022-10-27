@@ -1,0 +1,5 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\bin\Debug\net6.0\HydrocarbonAllocation.Application.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\bin\Debug\net6.0\HydrocarbonAllocation.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\bin\Debug\net6.0\HydrocarbonAllocation.Application.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\refint\HydrocarbonAllocation.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\HydrocarbonAllocation.Application.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Application\obj\Debug\net6.0\ref\HydrocarbonAllocation.Application.dll

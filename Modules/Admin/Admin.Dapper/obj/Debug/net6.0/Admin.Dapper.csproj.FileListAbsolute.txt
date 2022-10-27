@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\Admin.Dapper.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\Admin.Dapper.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\Admin.Dapper.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\refint\Admin.Dapper.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\ref\Admin.Dapper.dll

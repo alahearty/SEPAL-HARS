@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\bin\Debug\net6.0\HydrocarbonAllocation.Infrastructure.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\bin\Debug\net6.0\HydrocarbonAllocation.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\bin\Debug\net6.0\HydrocarbonAllocation.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\refint\HydrocarbonAllocation.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\HydrocarbonAllocation.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Infrastructure\obj\Debug\net6.0\ref\HydrocarbonAllocation.Infrastructure.dll

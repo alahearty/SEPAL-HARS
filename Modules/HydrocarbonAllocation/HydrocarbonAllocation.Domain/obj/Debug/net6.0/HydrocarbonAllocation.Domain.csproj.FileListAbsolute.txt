@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\bin\Debug\net6.0\HydrocarbonAllocation.Domain.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\bin\Debug\net6.0\HydrocarbonAllocation.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\bin\Debug\net6.0\HydrocarbonAllocation.Domain.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\refint\HydrocarbonAllocation.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\HydrocarbonAllocation.Domain.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\HydrocarbonAllocation\HydrocarbonAllocation.Domain\obj\Debug\net6.0\ref\HydrocarbonAllocation.Domain.dll

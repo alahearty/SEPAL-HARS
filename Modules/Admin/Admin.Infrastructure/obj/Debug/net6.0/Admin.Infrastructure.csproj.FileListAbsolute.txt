@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\bin\Debug\net6.0\Admin.Infrastructure.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\bin\Debug\net6.0\Admin.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\bin\Debug\net6.0\Admin.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\refint\Admin.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\Admin.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Infrastructure\obj\Debug\net6.0\ref\Admin.Infrastructure.dll

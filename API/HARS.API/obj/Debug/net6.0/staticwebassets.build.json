@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wqtwkD4bqAuuQiTgrwagOa3TQLd9v3VzKnqlOmSYtZE=",
+  "Source": "HARS.API",
+  "BasePath": "_content/HARS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

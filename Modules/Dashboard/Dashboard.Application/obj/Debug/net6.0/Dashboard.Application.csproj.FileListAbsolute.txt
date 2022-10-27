@@ -1,0 +1,12 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Application.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\bin\Debug\net6.0\Dashboard.Application.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\refint\Dashboard.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\Dashboard.Application.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Dashboard\Dashboard.Application\obj\Debug\net6.0\ref\Dashboard.Application.dll

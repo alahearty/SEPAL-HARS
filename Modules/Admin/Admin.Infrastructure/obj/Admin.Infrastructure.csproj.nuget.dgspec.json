@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alapher.woriayibapri\\Desktop\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj": {}
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alapher.woriayibapri\\Desktop\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj": {
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Application\\Admin.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alapher.woriayibapri\\Desktop\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj",
-        "projectName": "Admin.Infrastructure",
-        "projectPath": "C:\\Users\\alapher.woriayibapri\\Desktop\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\alapher.woriayibapri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alapher.woriayibapri\\Desktop\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\obj\\",
+        "projectUniqueName": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Application\\Admin.Application.csproj",
+        "projectName": "Admin.Application",
+        "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Application\\Admin.Application.csproj",
+        "packagesPath": "C:\\Users\\endurance.peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alapher.woriayibapri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\endurance.peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +58,346 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Dapper\\Admin.Dapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Dapper\\Admin.Dapper.csproj",
+        "projectName": "Admin.Dapper",
+        "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Dapper\\Admin.Dapper.csproj",
+        "packagesPath": "C:\\Users\\endurance.peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Dapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\endurance.peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj",
+        "projectName": "Admin.Domain",
+        "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj",
+        "packagesPath": "C:\\Users\\endurance.peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\endurance.peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj": {
+                "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj",
+        "projectName": "Admin.Infrastructure",
+        "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\Admin.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\endurance.peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\endurance.peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Application\\Admin.Application.csproj": {
+                "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Application\\Admin.Application.csproj"
+              },
+              "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Dapper\\Admin.Dapper.csproj": {
+                "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Dapper\\Admin.Dapper.csproj"
+              },
+              "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj": {
+                "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Modules\\Admin\\Admin.Domain\\Admin.Domain.csproj"
+              },
+              "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared.Infrastructure\\HARS.Shared.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared.Infrastructure\\HARS.Shared.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared.Infrastructure\\HARS.Shared.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared.Infrastructure\\HARS.Shared.Infrastructure.csproj",
+        "projectName": "HARS.Shared.Infrastructure",
+        "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared.Infrastructure\\HARS.Shared.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\endurance.peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\endurance.peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj": {
+                "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.2, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj",
+        "projectName": "HARS.Shared",
+        "projectPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\HARS.Shared.csproj",
+        "packagesPath": "C:\\Users\\endurance.peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\endurance.peter\\Desktop\\hars\\SEPAL-HARS\\Shared\\HARS.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\endurance.peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
