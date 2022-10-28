@@ -1,4 +1,5 @@
-﻿using HARS.Shared.Utilities;
+﻿using HARS.Shared.Extensions;
+using HARS.Shared.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

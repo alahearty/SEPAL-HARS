@@ -3,3 +3,10 @@ C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\ne
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.AssemblyInfoInputs.cache
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.AssemblyInfo.cs
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\bin\Debug\net6.0\HARS.Shared.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\refint\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared\obj\Debug\net6.0\ref\HARS.Shared.dll

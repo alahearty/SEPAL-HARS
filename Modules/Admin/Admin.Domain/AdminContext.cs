@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Admin.Domain.UsersManagement;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace Admin.Domain
 {
     public class AdminContext
     {
-
+        public virtual IAccessManager AccessManager { get; set; }
     }
 }

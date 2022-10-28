@@ -1,4 +1,9 @@
-﻿using System;
+﻿using Admin.Dapper.UserManagement;
+using Admin.Domain;
+using Microsoft.Extensions.Logging;
+using NHibernate;
+using NHibernate.Configuration.DatabasePipeline;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

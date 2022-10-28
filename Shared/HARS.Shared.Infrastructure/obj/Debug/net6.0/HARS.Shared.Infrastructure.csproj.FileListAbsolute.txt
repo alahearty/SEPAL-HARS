@@ -1,0 +1,15 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\bin\Debug\net6.0\HARS.Shared.Infrastructure.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\bin\Debug\net6.0\HARS.Shared.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\bin\Debug\net6.0\HARS.Shared.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.csproj.CopyComplete
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\refint\HARS.Shared.Infrastructure.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\HARS.Shared.Infrastructure.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.Shared.Infrastructure\obj\Debug\net6.0\ref\HARS.Shared.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\bin\Debug\net6.0\NHibernate.Configuration.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\bin\Debug\net6.0\NHibernate.Configuration.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\bin\Debug\net6.0\NHibernate.Configuration.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.csproj.CopyComplete
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\refint\NHibernate.Configuration.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\NHibernate.Configuration.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\NHibernate.Configuration\obj\Debug\net6.0\ref\NHibernate.Configuration.dll

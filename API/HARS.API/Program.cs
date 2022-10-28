@@ -1,3 +1,6 @@
+using Admin.Infrastructure;
+using HARS.API.Utilities;
+using HARS.Shared.Infrastructure.Bootstrapper;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Identity.Web;
@@ -13,6 +16,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var applicationConfiguration = builder.Configuration.ExtractCoreApplicationSettings(new LoggerFactory());
+applicationConfiguration.WebRootPath = builder.Environment.WebRootPath;
+
+var bootstrapper = new Bootstrapper(applicationConfiguration);
+bootstrapper.RegisterModule<AdminModule>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,10 +32,14 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapControllers();
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
 
 app.Run();
+

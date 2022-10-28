@@ -10,3 +10,12 @@ C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\refint\Admin.Dapper.dll
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.pdb
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\ref\Admin.Dapper.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\Admin.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\HARS.UserMangement.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\NHibernate.Configuration.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\NHibernate.Configuration.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\Admin.Domain.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\bin\Debug\net6.0\HARS.UserMangement.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Dapper\obj\Debug\net6.0\Admin.Dapper.csproj.CopyComplete

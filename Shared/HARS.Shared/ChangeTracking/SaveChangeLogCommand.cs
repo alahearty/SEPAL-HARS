@@ -1,4 +1,5 @@
 ﻿using HARS.Shared.Architecture.Commands;
+using HARS.Shared.Builders;
 using HARS.Shared.Utilities;
 using System;
 using System.Collections.Generic;

@@ -55,6 +55,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HARS.API", "API\HARS.API\HA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HARS.Shared.Infrastructure", "Shared\HARS.Shared.Infrastructure\HARS.Shared.Infrastructure.csproj", "{342AF3A5-C354-4A97-A9E3-15D43BE759BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernate.Configuration", "Shared\NHibernate.Configuration\NHibernate.Configuration.csproj", "{249DF350-3E0D-4DE6-B878-068B30FE2D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HARS.UserMangement", "Shared\HARS.UserMangement\HARS.UserMangement.csproj", "{EF9696FB-4F27-4049-A9FF-962589686F07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +141,14 @@ Global
 		{342AF3A5-C354-4A97-A9E3-15D43BE759BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{342AF3A5-C354-4A97-A9E3-15D43BE759BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{342AF3A5-C354-4A97-A9E3-15D43BE759BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249DF350-3E0D-4DE6-B878-068B30FE2D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249DF350-3E0D-4DE6-B878-068B30FE2D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249DF350-3E0D-4DE6-B878-068B30FE2D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249DF350-3E0D-4DE6-B878-068B30FE2D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9696FB-4F27-4049-A9FF-962589686F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9696FB-4F27-4049-A9FF-962589686F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9696FB-4F27-4049-A9FF-962589686F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9696FB-4F27-4049-A9FF-962589686F07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +177,8 @@ Global
 		{A21290C0-C057-415C-8454-C896B5CE964A} = {7731A187-C1EA-4416-A40C-1A4B642046A0}
 		{74A14737-B224-4184-9101-431FBCCE17DE} = {B8476E83-1EBD-44E6-9D50-FCD7B16E9E2C}
 		{342AF3A5-C354-4A97-A9E3-15D43BE759BE} = {7731A187-C1EA-4416-A40C-1A4B642046A0}
+		{249DF350-3E0D-4DE6-B878-068B30FE2D36} = {7731A187-C1EA-4416-A40C-1A4B642046A0}
+		{EF9696FB-4F27-4049-A9FF-962589686F07} = {7731A187-C1EA-4416-A40C-1A4B642046A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F2C91EDE-E11F-4787-8B26-A9F728624026}

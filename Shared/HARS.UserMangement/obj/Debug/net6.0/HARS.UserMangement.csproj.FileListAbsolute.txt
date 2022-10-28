@@ -1,0 +1,15 @@
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\bin\Debug\net6.0\HARS.UserMangement.deps.json
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\bin\Debug\net6.0\HARS.UserMangement.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\bin\Debug\net6.0\HARS.UserMangement.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.csproj.CopyComplete
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\refint\HARS.UserMangement.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\HARS.UserMangement.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Shared\HARS.UserMangement\obj\Debug\net6.0\ref\HARS.UserMangement.dll

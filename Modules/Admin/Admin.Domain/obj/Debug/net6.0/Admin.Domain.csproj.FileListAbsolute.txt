@@ -10,3 +10,8 @@ C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\obj\
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\obj\Debug\net6.0\refint\Admin.Domain.dll
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\obj\Debug\net6.0\Admin.Domain.pdb
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\obj\Debug\net6.0\ref\Admin.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\bin\Debug\net6.0\HARS.UserMangement.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\bin\Debug\net6.0\HARS.UserMangement.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Domain\obj\Debug\net6.0\Admin.Domain.csproj.CopyComplete

@@ -1,9 +1,11 @@
 ﻿using Admin.Application;
 using Admin.Dapper;
+using Admin.Dapper.UserManagement.Mappings;
 using Admin.Domain;
 using Admin.Infrastructure.ModuleConfiguration;
 using Autofac;
 using HARS.Shared.Infrastructure.Bootstrapper;
+using NHibernate.Configuration.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,16 +29,16 @@ namespace Admin.Infrastructure
             containerBuilder.ConfigureApplicationSettings(tokenSecret, deploymentConfig);
             containerBuilder.ConfigureUserManagementServices();
 
-            // for NHibernate
-            //await new DatabaseConfigurationBuilder()
-            //        .SetSchema(AdminDbContext.SCHEMA)
-            //        .SetDatabaseType(coreConfiguration.SQLDatabaseType)
-            //        .SetConnectionString(coreConfiguration.SQLConnectionString)
-            //        .IsTesting(coreConfiguration.IsTesting)
-            //        .MappingFrom<SEPALBFSUserMapping>()
-            //        .RunMigrationsFrom(typeof(SEPALBFSUserMapping).Assembly)
-            //        .SetupDatabaseViews(typeof(SEPALBFSUserMapping).Assembly)
-            //        .SetupContainerAsync(containerBuilder);
+            //for NHibernate
+           await new DatabaseConfigurationBuilder()
+                   .SetSchema(AdminDbContext.SCHEMA)
+                   .SetDatabaseType(coreConfiguration.SQLDatabaseType)
+                   .SetConnectionString(coreConfiguration.SQLConnectionString)
+                   .IsTesting(coreConfiguration.IsTesting)
+                   .MappingFrom<HARSUserMapping>()
+                   .RunMigrationsFrom(typeof(HARSUserMapping).Assembly)
+                   .SetupDatabaseViews(typeof(HARSUserMapping).Assembly)
+                   .SetupContainerAsync(containerBuilder);
         }
 
         public override string Name => "Admin Module";

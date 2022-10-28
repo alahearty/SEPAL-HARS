@@ -10,3 +10,10 @@ C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\obj\Debug\net6.0\refint\Admin.Application.dll
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\obj\Debug\net6.0\Admin.Application.pdb
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\obj\Debug\net6.0\ref\Admin.Application.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\bin\Debug\net6.0\Admin.Domain.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\bin\Debug\net6.0\HARS.Shared.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\bin\Debug\net6.0\HARS.UserMangement.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\bin\Debug\net6.0\Admin.Domain.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\bin\Debug\net6.0\HARS.Shared.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\bin\Debug\net6.0\HARS.UserMangement.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\Modules\Admin\Admin.Application\obj\Debug\net6.0\Admin.Application.csproj.CopyComplete
