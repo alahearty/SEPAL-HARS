@@ -1,4 +1,5 @@
-﻿using Autofac;
+﻿using Admin.Dapper.UserManagement;
+using Autofac;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,11 @@ namespace Admin.Infrastructure.ModuleConfiguration
     {
         internal static void ConfigureUserManagementServices(this ContainerBuilder builder)
         {
+            builder
+               .RegisterType<AccessManager>()
+               .As<AccessManager>()
+               .InstancePerLifetimeScope();
+
 
             //builder.RegisterType<JWTTokenProvider>()
             //               .As<IJWTTokenProvider>()

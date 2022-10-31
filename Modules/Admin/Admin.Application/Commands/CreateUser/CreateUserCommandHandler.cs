@@ -14,13 +14,9 @@ namespace Admin.Application.Commands.CreateUser
                 .AccessManager
                 .UserRepository.FindUserByEmail(command.Email);
 
-            if (fetchUser.WasSuccessful && !fetchUser.Data.IsDeleted) return FailedOperation(ErrorCode.BadRequest, $"{command.Email} already exists.");
+            //if (fetchUser.WasSuccessful && !fetchUser.Data.IsDeleted) return FailedOperation(ErrorCode.BadRequest, $"{command.Email} already exists.");
 
-            var user = new HARSUser(
-                command.FirstName,
-                command.LastName, command.Email,
-                command.IsAdmin ? AccountTypes.Admin : AccountTypes.Regular);
-
+            var user = new HARSUser().CreateHARSUser(command.FirstName, command.LastName, command.Email, command.IsAdmin ? AccountTypes.Admin : AccountTypes.Regular);
 
             var passwordHash = DbContext.Store
                 .AccessManager

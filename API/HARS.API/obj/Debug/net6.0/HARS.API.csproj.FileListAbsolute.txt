@@ -119,3 +119,9 @@ C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\H
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\HARS.Shared.Infrastructure.pdb
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\HARS.UserMangement.pdb
 C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\NHibernate.Configuration.pdb
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\endurance.peter\Desktop\hars\SEPAL-HARS\API\HARS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

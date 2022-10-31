@@ -56,9 +56,9 @@ namespace HARS.Shared.Infrastructure.Bootstrapper
             }
 
             using var scope = CreateModuleScope<TModule>();
-            var handler = scope.Resolve<ICommandHandler<TCommand, TResponse>>();
             try
             {
+                var handler = scope.Resolve<ICommandHandler<TCommand, TResponse>>();
                 var response = await handler.HandleAsync(command);
                 if (response.WasSuccessful && handler.ChangeLogs?.Count > 0)
                 {

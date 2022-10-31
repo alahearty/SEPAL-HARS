@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Admin.Dapper.Migrations
 {
     [Migration(202210281714)]
-    internal class M202210281714_Initial_Migrations : ForwardOnlyMigration
+    public class M202210281714_Initial_Migrations : ForwardOnlyMigration
     {
         public override void Up()
         {

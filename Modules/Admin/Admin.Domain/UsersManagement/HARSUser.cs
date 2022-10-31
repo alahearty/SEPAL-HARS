@@ -10,13 +10,16 @@ namespace Admin.Domain.UsersManagement
 {
     public class HARSUser : ApplicationUser, IUser, IEntity
     {
-        public HARSUser(string firstName, string lastName, string email, AccountTypes accountType = AccountTypes.Regular)
+        public virtual HARSUser CreateHARSUser(string firstName, string lastName, string email, AccountTypes accountType = AccountTypes.Regular)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            Email = email;
-            UserName = email;
-            AccountType = accountType;
+            return new HARSUser
+            {
+                FirstName = firstName,
+                LastName = lastName,
+                Email = email,
+                AccountType = accountType,
+                UserName = email
+            };
         }
         public virtual void ChangeAccountType(AccountTypes accountType)
         {

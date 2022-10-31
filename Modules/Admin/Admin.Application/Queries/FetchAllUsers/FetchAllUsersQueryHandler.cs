@@ -21,7 +21,7 @@ namespace Admin.Application.Queries.FetchAllUsers
         public override async Task<ActionResult<IEnumerable<UserProfileDto>>> HandleAsync(FetchAllUsersQuery query, CancellationToken token = default)
         {
 
-            var queryResult = QueryContext.Entities.Where(x => x.IsDeleted == false && x.AccountType != AccountTypes.Admin).ToList();
+            var queryResult = QueryContext.Entities.ToList();
             var users = new List<UserProfileDto>();
             await Task.WhenAll(queryResult.Select(async x =>
                 users.Add(new UserProfileDto()

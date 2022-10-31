@@ -1,14 +1,9 @@
-﻿using HARS.Shared.DataBases;
-using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
-using System.Data;
+﻿using sql = System.Data.SqlClient;
 using System.Data.Common;
+using System.Data;
+using HARS.Shared.DataBases;
+using System.Data.SqlClient;
 using System.Data.SQLite;
-using sql = Microsoft.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NHibernate.Configuration
 {

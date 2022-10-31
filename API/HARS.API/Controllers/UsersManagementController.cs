@@ -10,7 +10,7 @@ using Microsoft.Identity.Web.Resource;
 namespace HARS.API.Controllers
 {
     [ApiController]
-    [Route("[users]")]
+    [Route("users")]
     //[RequiredScope(RequiredScopesConfigurationKey = "AzureAd:Scopes")]
     public class UsersManagementController : BaseController
     {

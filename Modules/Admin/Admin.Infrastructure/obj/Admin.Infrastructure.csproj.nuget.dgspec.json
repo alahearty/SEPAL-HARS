@@ -535,10 +535,6 @@
               "target": "Package",
               "version": "[6.4.0, )"
             },
-            "FluentMigrator": {
-              "target": "Package",
-              "version": "[3.3.2, )"
-            },
             "FluentMigrator.Runner": {
               "target": "Package",
               "version": "[3.3.2, )"
@@ -550,6 +546,10 @@
             "System.Data.SQLite.Core": {
               "target": "Package",
               "version": "[1.0.116, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
             }
           },
           "imports": [

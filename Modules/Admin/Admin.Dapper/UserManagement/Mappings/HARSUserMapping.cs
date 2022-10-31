@@ -17,7 +17,6 @@ namespace Admin.Dapper.UserManagement.Mappings
             Map(user => user.LastName).IsRequiredColumn();
             Map(user => user.Email).Unique().IsRequiredColumn();
             Map(user => user.IsLockedOut);
-            Map(user => user.IsDeleted);
             Map(user => user.AccountType).IsRequiredColumn();
             Map(user => user.PhoneNumber);
             Map(user => user.PasswordHash).IsRequiredColumn();

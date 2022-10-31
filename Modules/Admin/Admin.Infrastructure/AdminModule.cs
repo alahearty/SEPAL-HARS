@@ -1,4 +1,5 @@
 ﻿using Admin.Application;
+using Admin.Application.Commands.CreateUser;
 using Admin.Dapper;
 using Admin.Dapper.UserManagement.Mappings;
 using Admin.Domain;
@@ -43,7 +44,7 @@ namespace Admin.Infrastructure
 
         public override string Name => "Admin Module";
 
-        public override Assembly ApplicationAssembly => typeof(Class1).Assembly;
+        public override Assembly ApplicationAssembly => typeof(CreateUserCommand).Assembly;
         public override Assembly InfrastructureAssembly => typeof(AdminModule).Assembly;
     }
 
