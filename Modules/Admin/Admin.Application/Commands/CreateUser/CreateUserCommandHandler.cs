@@ -28,8 +28,10 @@ namespace Admin.Application.Commands.CreateUser
                 .AccessManager
                 .UserRepository.Add(user);
 
+            var commitStatus = await DbContext.CommitToDatabaseAsync();
 
-            return SuccessfulOperation(user.Id);
+
+            return commitStatus.WasSuccessful ? SuccessfulOperation(user.Id) : FailedOperation(ErrorCode.InternalServerError, "failed to commit to database");
         }
     }
 }
